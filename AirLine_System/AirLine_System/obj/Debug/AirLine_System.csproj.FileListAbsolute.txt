@@ -1,0 +1,14 @@
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\bin\Debug\AirLine_System.exe.config
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\bin\Debug\AirLine_System.exe
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\bin\Debug\AirLine_System.pdb
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.csproj.AssemblyReference.cache
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.Properties.Resources.resources
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.csproj.GenerateResource.cache
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.csproj.CoreCompileInputs.cache
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.exe
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.pdb
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.FormSignUp.resources
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.FormAirport.resources
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.Dashboard.resources
+C:\Users\Chien\source\repos\AirLine_System\AirLine_System\obj\Debug\AirLine_System.test.resources
